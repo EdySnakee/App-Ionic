@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bapp</string>
+    <string name="title_activity_main">bapp</string>
+    <string name="package_name">com.bapp.app</string>
+    <string name="custom_url_scheme">com.bapp.app</string>
+</resources>
